@@ -6,7 +6,7 @@
 I'm Precious
 
 - 🔭 I’m currently working on Kotlin(Android) and Flutter projects
-- 🌱 I’m currently learning Spring boot
+- 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on Android and Flutter projects and Full-time roles
 - 🤔 I’m looking for help with nodeJs
 - 💬 Ask me about anything Android
