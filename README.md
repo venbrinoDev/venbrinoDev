@@ -17,4 +17,3 @@ I'm Precious
 
 
 ![VenbrinoDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=venbrinoDev&theme=cobalt&show_icons=true&&line_height=40)
-![VenbrinoDev Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venbrinoDev&theme=cobalt&show_icons=true)<br/>
