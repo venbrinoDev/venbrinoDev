@@ -16,4 +16,4 @@ I'm Precious
 - ⚡ Fun fact: I love skating come and challenge me.
 
 
-![VenbrinoDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=venbrinoDev&theme=cobalt&show_icons=true&&line_height=40)
+![VenbrinoDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-el&theme=cobalt&show_icons=true&&line_height=40)
