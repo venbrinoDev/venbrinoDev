@@ -3,12 +3,12 @@
 ![Profile views](https://gpvc.arturio.dev/venbrinoDev)
 ### Hi there 👋
 
-I'm Precious
+Hi i am Precious, A multi-niche software developer with advanced skill in native ,cross platform and ui/ux design,so it wouldn't 
+be an issue handling any required application.
+
 
 - 🔭 I’m currently working on Kotlin(Android) and Flutter projects
-- 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on Android and Flutter projects and Full-time roles
-- 🤔 I’m looking for help with nodeJs
 - 💬 Ask me about anything Android
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AgalabaP)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='G-mail' height='18' color = 'blue'>](venbrinosoftwaredeveloper@gmail.com)
