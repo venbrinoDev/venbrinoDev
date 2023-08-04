@@ -15,5 +15,3 @@ be an issue handling any required application.
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I love skating come and challenge me.
 
-
-![VenbrinoDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=venbrinodev&theme=cobalt&show_icons=true&&line_height=40)
