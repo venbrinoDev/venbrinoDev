@@ -46,13 +46,6 @@ I specialize in:
 
 ---
 
-### ⚡ Fun Fact
-
-I’m a skating enthusiast 🛹  
-Challenge me if you dare — I code fast, and skate even faster!
-
----
-
 <blockquote align="center">
   “Code is a craft. Every screen, every animation, every tap should feel like it was meant to be.”<br />
   — Precious
