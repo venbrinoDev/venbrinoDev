@@ -1,13 +1,13 @@
 
 <!-- Name and title -->
 <h1 align="center">Hi, I'm Precious 👋</h1>
-<h3 align="center">Seasoned Mobile Engineer</h3>
+<h3 align="center">Seasoned Software Engineer</h3>
 
 ---
 
 ### 🧠 About Me
 
-I'm a **Mobile Engineer** with **6+ years** of hands-on experience building and scaling mobile applications across industries like ride-hailing, e-commerce, and logistics.
+I'm a **Software Engineer** with **6+ years** of hands-on experience building and scaling applications across industries like ride-hailing, e-commerce, and logistics.
 
 I specialize in:
 - 📱 Building **pixel-perfect cross-platform apps** with **Flutter**
