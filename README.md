@@ -24,7 +24,7 @@ I specialize in:
 |--------|-------------|
 | 🚕 **Flex2Ride** | Real-time ride-hailing system with background tracking and route recovery |
 | 🛒 **Zylag** | AI-powered classifieds platform with escrow and identity verification |
-| 🚚 **Dele Go** | Delivery aggregator API + dashboard for Nigerian e-commerce businesses |
+| 🚚 **Dele Go** | Delivery aggregator API + dashboard for e-commerce businesses |
 | 🧑‍💻 **Yeeppi** | A staff and payroll managment software |
 
 ---
