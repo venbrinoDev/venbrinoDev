@@ -1,17 +1,59 @@
 
+<!-- Name and title -->
+<h1 align="center">Hi, I'm Precious 👋</h1>
+<h3 align="center">Seasoned Mobile Engineer</h3>
 
-![Profile views](https://gpvc.arturio.dev/venbrinoDev)
-### Hi there 👋
+---
 
-Hi i am Precious, A multi-niche software developer with advanced skill in native ,cross platform and ui/ux design,so it wouldn't 
-be an issue handling any required application.
+### 🧠 About Me
 
+I'm a **Mobile Engineer** with **6+ years** of hands-on experience building and scaling mobile applications across industries like ride-hailing, e-commerce, and logistics.
 
-- 🔭 I’m currently working on Kotlin(Android) and Flutter projects
-- 👯 I’m looking to collaborate on Android and Flutter projects and Full-time roles
-- 💬 Ask me about anything Android
-- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/AgalabaP)
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='G-mail' height='18' color = 'blue'>](venbrinosoftwaredeveloper@gmail.com)
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: I love skating come and challenge me.
+I specialize in:
+- 📱 Building **pixel-perfect cross-platform apps** with **Flutter**
+- ⚙️ Writing **robust native apps** with **Kotlin** (Android)
+- 🧠 Designing **scalable mobile architectures** (clean architecture, modularization)
+- 🛰️ Developing **real-time features** with **Socket.IO** (live location, chat, background tasks)
+- 🎨 Creating smooth, elegant **user experiences** with great attention to detail
 
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🚕 **Flex2Ride** | Real-time ride-hailing system with background tracking and route recovery |
+| 🛒 **Zylag** | AI-powered classifieds platform with escrow and identity verification |
+| 🚚 **Dele Go** | Delivery aggregator API + dashboard for Nigerian e-commerce businesses |
+| 🧑‍💻 **Yeeppi** | A staff and payroll managment software |
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,nodejs,firebase,mongodb,nestjs,git,java" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:venbrinosoftwaredeveloper@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/precioustagy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I’m a skating enthusiast 🛹  
+Challenge me if you dare — I code fast, and skate even faster!
+
+---
+
+<blockquote align="center">
+  “Code is a craft. Every screen, every animation, every tap should feel like it was meant to be.”<br />
+  — Precious
+</blockquote>
