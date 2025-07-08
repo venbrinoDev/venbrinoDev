@@ -15,6 +15,7 @@ I specialize in:
 - 🧠 Designing **scalable mobile architectures** (clean architecture, modularization)
 - 🛰️ Developing **real-time features** with **Socket.IO** (live location, chat, background tasks)
 - 🎨 Creating smooth, elegant **user experiences** with great attention to detail
+- Building Ai and agentic workflow
 
 ---
 
